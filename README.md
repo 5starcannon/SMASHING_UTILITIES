@@ -28,6 +28,15 @@ v1.0.0
 
 ..--> Smashing Utilities will have up to 100 utilities.
 
+v1.0.1 
+
+.--> Compatibility with Apache2 CGI.Initial set up will be produced once the user has selected this option to download Python Test Scripts from a public Github repository.
+
+.--> Display how long the script took to run.
+
+.--> Smashing Utitlities will have up to 120 utilities.
+
+
 SPANISH:
 
 Smashing Utilities es un programa en BASH que te permite instalar hasta 88 utilidades a la vez en LinuxMint. 
@@ -56,3 +65,10 @@ La respuesta / output producida en la Terminal tras haber escogido nuestras opci
 
 .--> Smashing Utilites tendrá hasta 100 utilidades.
 
+v1.0.1
+
+.--> Compatibilidad con Apache2 CGI. Su configuración se hará automática cuando el usuario marque esta opción tras descargar scripts de PYTHON de prueba de un repositorio de GITHUB.
+
+.--> Mostrar el tiempo aproximado que ha tardado el script en ejecutarse.
+
+.--> Smashing Utilites tendrá hasta 120 utilidades.
