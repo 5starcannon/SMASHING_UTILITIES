@@ -1,4 +1,4 @@
-# SMASHING_UTILITIES
+# SMASHING_UTILITIES (BETA Release)
 Smashing Utilitites is a BASH script allowing you to install up to 88 utilities all at once.
 Remember than SMASHING_UTILITIES is under construction (beta) and full product will be available when available.
 
