@@ -517,7 +517,7 @@ do
 		;;
 		88) # Full-Update OS at the end
 			echo "---------------------------------------"
-			echo "! <--  SMASHING UTILITIES --> ! Proceding to leave OS on date !! ";
+			echo "! <--  SMASHING UTILITIES --> ! Proceding to leave OS on date !! "
 			echo "---------------------------------------"
 			sudo apt update -y && sudo apt upgrade -y
 			sudo apt dist-upgrade -y && sudo apt autoremove -y
